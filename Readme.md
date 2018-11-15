@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.aspx](./CS/ShowCrosshairExample/MainPage.aspx) (VB: [MainPage.aspx](./VB/ShowCrosshairExample/MainPage.aspx))
+* [MainPageScripts.js](./CS/ShowCrosshairExample/MainPageScripts.js) (VB: [MainPageScripts.js](./VB/ShowCrosshairExample/MainPageScripts.js))
+<!-- default file list end -->
 # How to programmatically show the Crosshair Cursor in a Web application
 
 
